@@ -1,0 +1,501 @@
+Docstore (for KJX approval): https://docstore-core.eu.novartis.net/CDF/X3_Portal.jsp#d2
+
+=================================================
+Corporate credit card Citi as of Jan 2024:
+
+https://home.cards.citidirect.com/CommercialCard/login
+
+Card number: 5527 9060 0101 4688
+Userid: mahajvi
+Password: ChinguVyom123$
+=================================================
+
+
+Microsoft team PIN: 448653
+Skype PIN: 109865
+
+As of Feb 2020:
+Functional Admin Restructure
+Line Function	Admin
+DM	Renu Vallabhdas
+SP	Shilpa Punjala
+CDS, BEx, CDDRA, DODU, DQO	Spandana Seelam
+DO Mumbai	Shraddha Poojary
+DOLT	Ravikanth Yarka
+Scheduler (DO)	Hannah Amanulla
+
+ACoE/Functional Admin Responsibility Change
+Task	Responsible Team
+Room Booking	ACoE
+HCR	Functional Admin 
+Horizon Timesheet	Shraddha Poojary
+
+IT helpdesk mail ID for chat: ITServiceDesk, NBS (Gen) <itservicedesk@nvshd.com>
+
+FIRST tool: https://first.novartis.net/first/index#/start
+
+Novartis share monitor link: https://www.novartis.com/investors/share-data-analysis/share-monitor
+
+2019 office insurance:
+Step 1 - log on to https://www.fhpl.net/FhplLogins/Ecard/Login.aspx?Type=ecard 
+Step 2 – Key in the following details
+Corporate ID (Mandatory Field)                : 9542
+Userid: 40006550                      password:ChinguVyom123$
+
+Apollo Munich policy: Policy number: AA01088887      App password: 123456789 Member ID: 10020178100 
+
+Standard line when someone asks for access:
+User’s manager should be able to raise a GPS II ticket for RESP TA access.
+If the user already has access to CREDI then by default there is no need to raise any access. In case, this is a new user, user can raise a request for self.
+
+GPS II TAs:
+ULS_GBL_GPSII.PROD_CUSERS,
+ULS_GBL_GPSII.PROD_CVM,
+ULS_GBL_GPSII.PROD_IID,
+ULS_GBL_GPSII.PROD_MPSPEC,
+ULS_GBL_GPSII.PROD_NSO,
+ULS_GBL_GPSII.PROD_ONC,
+ULS_GBL_GPSII.PROD_RESP
+
+RAD PP example from the DRAWA folder, this example has 2 TOC views pointing to the same physical copy:
+I:\North America\USEH, East Hanover\PH\AppData\Drawa\RAD001K\20120930 CRAD001C2325 OS Update\CRF\RAD001C2325
+The program which may be creating the bookmarks
+*%include "G:\BusUnits\EDM\Project Support\Patient Profile Library\Working Programs\Visit_Info.sas";
+
+R-CRAN links for clinical trials: https://cran.r-project.org/web/views/ClinicalTrials.html
+
+GMA bottom's up Tracker link shared by Nathalie Barbier:
+https://share.novartis.net/sites/cdssp/Biostats_PMX/Resource_Allocation/Trackers%20by%20Function%20bottom%20up/Forms/AllItems.aspx
+
+RAP process recalibration (August 2019) -- SP and MW will create RAP taking over from Bios: https://share.novartis.net/sites/cdssp/Biostats_PMX/Strategic_Initiatives/PRREC/SitePages/Home.aspx
+
+From Suzette Tudor:
+Here is the link to the Yammer posting of the GDD BoW. It should include the dates of the interim analyses.
+https://www.yammer.com/novartis.com/#/threads/inGroup?type=in_group&feedId=17074819
+
+http://atlas.pharma.novartis.intra/#/
+
+GPS spotfire metrics link: 
+https://spotfprd.dev.pharma.novartis.intra/spotfire/wp/render/828758371977/analysis?file=/GPS%20Metrics/Analysis_Files/GPSII_metrics&waid=PzTqwnSb30e3jOBG05HpY-152159e750Q7Oj&wavid=0
+
+Rakesh Reddy ICON: 00447414710605
+
+Please reach out to the following associates in case of urgency. 
+
+For Pharma GMA:
+Poojary, Sunita sunita.poojary@novartis.com
+Shetty, Satish satish.shetty@novartis.com
+Vithala, Sri sri.vithala@novartis.com
+
+For RESP DM:
+Hiriyanna, Srinivas srinivas.hiriyanna@novartis.com
+Regula, Ramakrishna ramakrishna.regula@novartis.com
+Kumar, Prasanth prasanth.kumar@novartis.com 
+Bhabhe, Nikhil Mohan nikhil_mohan.bhabhe@novartis.com
+
+For RESP SP:
+Jayam, Kiran kiran.jayam@novartis.com
+Ponugoti, RajendraPrasad rajendraprasad.ponugoti@novartis.com
+Movva, Satish Kumar satish_kumar.movva@novartis.com
+
+DM page SharePoint: https://share.novartis.net/sites/DO/DM/SitePages/DM%20Book%20of%20Work.aspx
+http://jreview.dev.pharma.novartis.intra/ 
+
+Renu Motwani (GCE): 001 416-524-5051
+
+http://www.novartis.net/Pages/diseasesandconditions.aspx?pid=69#description_69
+
+https://hstalks.com/category/764/cancer/?biosci
+
+Links to the disease area trainings:
+
+http://www.novartis.net/Pages/diseasesandconditions.aspx?pid=69#description_69
+https://hstalks.com/category/764/cancer/?biosci
+
+New RAS online: http://php-rmc.statwb-dev.eu.novartis.net/
+
+GMA Bios sharePoint: https://share.novartis.net/sites/cdssp/Biostats_PMX/GMA/SitePages/Home.aspx
+
+Kevin Poirier 
+Director
+Data Transparency 
+Clinical Disclosure Office
+CMO and Patient Safety
+Novartis Pharmaceuticals Corporation
+One Health Plaza
+East Hanover, NJ 07936-1080
+USA
+
+Clinical Ops heads GMA:
+Seewald, Michael <michael.seewald@novartis.com>; 
+Frey, Eleonora <eleonora.frey@novartis.com>; 
+Malfait, Sigrid <sigrid.malfait@novartis.com>; 
+Miralles, Gregory <gregory.miralles@novartis.com>; 
+Gez, Yonas Amanuel <yonas_amanuel.gez@novartis.com>; 
+Schriber, Ethel <ethel.schriber@novartis.com>
+
+Suzette's sheet: /CREDI TABULU/IIS/IIS Gap Analysis/
+/CREDI TABULU/IIS/IIS Gap Analysis/Bios and SR Project Level Estimates - Project Level Resources 2018_2019.xlsx 
+
+Citi bank corporate card: Userid: mahajvi Password: Chingu123 Pin: 369511, telephone Pin: 3695
+New cost center created for DODU, Hyderabad is 11B220496A.
+Phd account: p106@tdu.edu.in on google and password: Chingu123$ [C capital]
+
+Nov 2016: A prospective comparative field study to evaluate the efficacy of a traditional plant-based malaria prophylaxis
+
+Prakash Bangalore Nagendrappa, Pradeep Annamalai, Muruli Naik, Vinay Mahajan, Ashwini Mathur, Ghosh Susanta,
+Frederick Gay, Padma Venkatasubramanian
+
+May 2022: Journal of Intercultural Ethnopharmacology, DOI: 10.5455/jice.20161112021406, www.jicep.com
+
+June 2022: Mahajan, V.; Sanker MK, V.; Mathur, A. Clinical Research in Ayurveda - Can Statistics as A Scientific Discipline Help the Cause?. Preprints 2022, 2022060101 (doi: 10.20944/preprints202206.0101.v1).
+Published in a journal:
+https://www.enlivenarchive.org/articles/clinical-research-in-ayurveda--can-statistics-as-a-scientific-discipline-help-the-cause.pdf
+https://www.enlivenarchive.org/data/clinical-research-in-ayurveda--can-statistics-as-a-scientific-discipline-help-the-cause-4827.html 
+
+
+Ramesh & Sudha Amatya
+7760 Overlook Hills Lane
+Cincinnati, Ohio 45244
+Email: RameshnAmatya@gmail.com
+Home: 513-561-0707
+Mobile: 513-488-5200
+
+Elsevier article review:          userid: mahajvi@yahoo.co.in               password: ChinguVyom123$
+
+Linkedin: https://www.linkedin.com/in/aniket-salvi-9b952b18/
+Gmail: salvi.aniket@gmail.com 
+Contact number: +91-9920928007/+91-9160405011. 
+ 
+Pawan Sharma: pawan28887@gmail.com and at +91-9030094942
+Ravi Gupta: raviprakashgupta88@gmail.com and Contact number (+91-8886095151).
+https://www.linkedin.com/in/ram-govindaraju-66ba7030 
+ram.govindaraju@gmail.com -- WTCC
+
+India mobile: +91 7799844227
+Sumedha Sri Lanka Landline: +94 11 2179345
+
+Yvane's participant Passcode: 768 569 8410
+Kalyanee's participate Passcode: 396 626 1869
+
+SOS Children's Villages thanks you for donation.Receipt has been sent on your email or else will be sent to your address in 20 days.Login to your account on our web site at Donor Support section. ID DEL/89217
+
+CREDI folder for GPS II access: /CREDI TABULU/B&SR/Reviews & Updates/B&SR Project Personnel
+CREDI folder for RAS: Cabinets/CREDI TABULU/IIS/IIS Resource Planning/SR Resource Planning 
+
+jabong                            userid: mahajvi@yahoo.co.in               password: Chingu123$   
+indigo                            userid: varshanbhag                       password: ChinguVyom123$
+GSK: mudid is vm10834
+Printer: PUK code 95682766, ID code: 74743731
+www.cdisc.org                     userid: vinay.mahajan@novartis.com         password: Chingu123$
+Springer protcol http://www.springerprotocols.com/ userid: mahajvi           password: Chingu123$
+https://investeasy.reliancemutual.com/Online/ userid: mahajvi@yahoo.co.in    password: Chingu123$
+Intralinks: https://services.intralinks.com                                  password: Chingu123$
+ICICI Bank a/c: 004001622269            userid: vinvarvyom                   password: Chingu123$ (Capital C)
+Birla Sunlife mutual fund: userid: mahajvi@yahoo.co.in                       password: Chingu123$                   Redeemed on 3rd Sept 2021
+Apple id: vinay.mahajan@novartis.com                                         password: Novartis123$
+Apple id: Home                                                               password: Vyom1234
+www.equateplus.com [Novartis Shares]     userid: 2759033                     password: Chingu123$
+https://www.apnacomplex.com/             username: mahajvi@yahoo.co.in       password: chingu123
+https://www.clinicalstudydatarequest.com/default.aspx usename: mahajvi       password: Chingu123$
+http://www.fkshyderabad.com/   2nd grade           username FKS07108         password: parent999
+https://www.ess.adp.in/ESS4/default.aspx
+
+https://www.etaxmentor.com/Services/ITR/Redirecting:                         password: Vyom1234$
+https://incometaxindiaefiling.gov.in/portal/form26ASInfo.do                  password: chingu123#
+PPF: https://www.cquel.com/pf/home.php Userid = mahajvi                      password: chingu123
+HRG travel: https://isuite2.hrgworldwide.com/hrgindia/en-us/home.aspx        password: Chingu123$
+eseva: http://www.esevaonline.com/epay/ConsData.jsp  mahajvi                 password: vyom1234
+Linkedin: mahajvi@yahoo.co.in                                                password: chingu123
+LIC: https://customer.onlinelic.in/LICEPS/appmanager/Customer/CustomerHome   
+                                       userid = use phone number             password: ChinguVyom123$
+
+HDFC bank userid: 26707581, customer ID                                      password: changed once in 3 months, usually same as NVS password
+HDFC bank userid: 26708064 (Vyom's account), customer ID                     password: changed once in 3 months, usually same as NVS password
+HDFC bank userid: 134487500 (Varsha's account), customer ID
+ICICI bank userid: b50457931                                                 password: manuka123
+British airways: http://www.britishairways.com/travel/register-now/public/en_gb
+mahajvi                                                                      password: chingu123
+SAS certification: mahajvi                                                   password: chingu
+https://i7lp.integral7.com/durango/do/candidatehome/myinfo?ownername=sas&usertype=candidate&3D6CBF60ADAE3C6C0D8E570165AD529C=9E29F54F310B2F314DBE436949BEEAC9&basechannel=sas&channel=sas
+
+
+
+Appollo Clinic login
+vyom1234:                                                                    password: vyom1234
+vinay1234:                                                                   password: vyom1234
+varsha1234:                                                                  password: vyom1234
+Amazon.com: mahajvi@yahoo.co.in                                              password: Chingu123$
+HDFC bank credit card                                              3D secure password: Manuka#1, Chingu123$ (old expired)
+Rediff shopping:username is vinay.mahajan@novartis.com                  Your password: 16941
+TATAphoton http://www.tatadocomo.com/gmyaccount.aspx                         password: vyom123$
+Vodafone Login id: mahajvi                                                   password: Vyom123$  (V capital)
+Home loan : www.hdfc.com Username : VINANM  fileno= 606726996                password: chingu123$  
+Home loan : www.hdfc.com Username : VARSVM  fileno= 398204665                password: manuka123  
+
+
+
+LSH password: welcome176
+LSH test password: Vyom123$
+Group Medi claim Insurance – Welcome – Kit
+
+
+Your GlobalMeet Information 
+________________________________________
+Company Name: Novartis Healthcare Pvt. Ltd
+Host Name: Vinay Mahajan
+ 
+Online Account Management Access
+Client ID: 8687668
+PGi Online Password: n112l6
+ 
+Passcodes
+
+Host Passcode: 244 474 2410
+Participant Passcode: 655 910 3501
+
+Participant Features:
+
+Mute / Un-mute *6
+Increase volume *4
+Decrease volume *7
+Increase microphone *5
+Decrease microphone *8
+Help menu *1
+Reservationist *0
+ 
+Local Dial-In Numbers 
+Local - India, Delhi: 	+91 (0) 11 6641 1374	
+Local - India, Mumbai: 	+91 (0) 22 6150 1741	
+                                          1 800 266 0329
+International toll free - India: 	000 800 1008 185	
+Local - India, Bangalore: 	+91 (0) 80 6127 5074	
+
+Global Access Dial-In-Numbers View a List
+
+International Toll Free and Local Phone Numbers 
+   Argentina (freephone)  : 0 800 444 4665 
+   Argentina, Buenos Aires  : +54 (0) 11 5984 4012 
+   Argentina, San Juan  : +54 264 401 8930 
+   Australia (freephone)  : 1 800 720 497 
+   Australia, Melbourne  : +61 (0) 3 8687 0526 
+   Australia, Sydney  : +61 (0) 2 8017 5613 
+   Austria (freephone)  : 0800 886 63287 
+   Austria, Vienna  : +43 (0) 1 25302 1754 
+   Bahrain (freephone)  : 800 81076 
+   Bahrain, Manama  : +973 1619 8801 
+   Belgium (freephone)  : 0 800 39 259 
+   Belgium, Brussels  : +32 (0) 2 404 0661 
+   Brazil, Rio de Janeiro  : +55 21 4063 7853 
+   Brazil, Sao Paulo  : +55 11 3163 0502 
+   Bulgaria (freephone)  : 00800 118 4457 
+   Bulgaria, Sofia  : +359 (0) 2 491 7884 
+   Canada, Montreal  : +1 514 669 5882 
+   Canada, Toronto  : +1 416 915 3222 
+   Chile (freephone)  : 123 0020 9252 
+   China (locall)  : +400 120 0524 
+   China, Beijing  : +86 10 5904 5011 
+   Colombia (freephone)  : 01 800 518 1771 
+   Costa Rica (freephone)  : 0800 012 1751 
+   Croatia (freephone)  : 0800 805 913 
+   Cyprus (freephone)  : 800 96492 
+   Czech Republic (freephone)  : 800 701 452 
+   Czech Republic, Prague  : +420 228 882 964 
+   Denmark (freephone)  : 80 703 560 
+   Denmark, Copenhagen  : +45 32 71 16 53 
+   Egypt (freephone)  : 0800 000 0464 
+   Estonia (freephone)  : 8000 111 517 
+   Estonia, Tallinn  : +372 622 6500 
+   Finland (freephone)  : 800 772 206 
+   Finland, Helsinki  : +358 (0) 9 2310 1627 
+   France  : 0811 655 101 
+   France (freephone)  : 0800 946 539 
+   France, Paris  : +33 (0) 1 70 70 17 49 
+   Germany  : 01801 003 895 
+   Germany (freephone)  : 0800 589 1851 
+   Germany, Frankfurt  : +49 (0) 69 2222 10768 
+   Germany, Munich  : +49 (0) 89 2030 31203 
+   Greece (freephone)  : 00800 128 568 
+   Greece, Athens  : +30 21 1198 2789 
+   Hong Kong   : +852 3051 2730 
+   Hong Kong (freephone)  : 800 968 955 
+   Hungary (freephone)  : 06 800 193 87 
+   Hungary, Budapest  : +36 1 778 9324 
+   Iceland (freephone)  : 800 9906 
+   India (freephone)  : 000 800 1008 185 
+   India, Bangalore  : +91 (0) 80 6127 5074 
+   India, Delhi  : +91 (0) 11 6641 1374 
+   India, Mumbai  : +91 (0) 22 6150 1741 
+   Indonesia (freephone)  : 001 803 0613 2213 
+   Ireland  : 1890 907 706 
+   Ireland (freephone)  : 1800 937 645 
+   Ireland, Dublin  : +353 (0) 1 246 5600 
+   Israel (freephone)  : 180 921 2926 
+   Israel, Tel Aviv  : +972 3 935 0632 
+   Italy (freephone)  : 800 145 993 
+   Italy, Milan  : +39 02 3600 9841 
+   Italy, Rome  : +39 06 8750 0873 
+   Japan (freephone)  : 0120 807 900 
+   Japan (mobile)  : 0120 829 800 
+   Japan, Osaka  : +81 (0) 6 4560 3509 
+   Japan, Tokyo  : +81 (0) 3 4588 9634 
+   Latvia (freephone)  : 8000 4272 
+   Latvia, Riga  : +371 6778 2585 
+   Lithuania (freephone)  : 8800 31305 
+   Lithuania, Vilnius  : +370 5205 5228 
+   Luxembourg  : +352 2088 1755 
+   Luxembourg (freephone)  : 800 27069 
+   Malaysia (freephone)  : 1 800 815 806 
+   Malaysia,Kuala Lumpur  : +60 (0) 3 7723 7165 
+   Mexico (freephone)  : 001 800 514 4665 
+   Mexico, Mexico City  : +52 55 4777 2642 
+   Netherlands (freephone)  : 0800 020 2578 
+   Netherlands, Amsterdam  : +31 (0) 20 716 8294 
+   New Zealand (freephone)  : 0800 459 128 
+   New Zealand, Auckland  : +64 (0) 9 929 1764 
+   Norway (freephone)  : 800 56073 
+   Norway, Oslo  : +47 21 50 27 26 
+   Panama (freephone)  : 00 800 226 4665 
+   Peru (freephone)  : 0800 54 856 
+   Philippines (freephone)  : 1 800 164 100 22 
+   Poland (freephone)  : 00800 121 4328 
+   Poland, Warsaw  : +48 (0) 22 295 3506 
+   Portugal (freephone)  : 800 784 427 
+   Portugal, Lisbon  : +351 21 366 5066 
+   Romania (freephone)  : 0800 895 861 
+   Romania, Bucharest  : +40 (0) 21 529 3940 
+   Russia (freephone)  : 810 800 2945 4011 
+   Russia, Moscow  : +7 495 213 0986 
+   Russia, St. Petersburg  : +7 812 332 1045 
+   Saudi Arabia (freephone)  : 800 844 6206 
+   Singapore   : +65 6622 1723 
+   Singapore (freephone)  : 800 616 3176 
+   Slovakia (freephone)  : 0800 001 822 
+   Slovakia, Bratislava  : +421 (0) 2 3305 9627 
+   Slovenia (freephone)  : 0800 80944 
+   Slovenia, Ljubljana  : +386 1 888 8284 
+   South Africa (freephone)  : 800 984 062 
+   South Africa,Johannesburg  : +27 11 019 7069 
+   South Korea (freephone)  : 00798 6136 2234 
+   South Korea, Seoul  : +82 (0) 2 3483 1929 
+   Spain (freephone)  : 900 803 680 
+   Spain, Barcelona  : +34 93 800 1930 
+   Spain, Madrid  : +34 91 114 6580 
+   Sweden (freephone)  : 0200 125 449 
+   Sweden, Stockholm  : +46 (0) 8 5033 6519 
+   Switzerland (freephone)  : 0800 841 673 
+   Switzerland, Geneva  : +41 (0) 22 595 4791 
+   Switzerland, Zurich  : +41 (0) 44 580 7203 
+   Taiwan (freephone)  : 00 801 615 185 
+   Taiwan, Taipei  : +886 (0) 2 2656 7247 
+   Thailand (freephone)  : 001 800 613 62248 
+   Turkey (freephone)  : 00 800 448 826 205 
+   UAE (freephone)  : 8000 3570 2636 
+   UK  : 0845 351 3029 
+   UK (freephone)  : 0800 358 6382 
+   UK, Belfast  : +44 (0) 28 9595 0027 
+   UK, Edinburgh  : +44 (0) 13 1460 1131 
+   UK, London  : +44 (0) 20 3364 5727 
+   UK, Reading  : +44 (0) 11 8990 3054 
+   Ukraine (freephone)  : 0800 500 431 
+   Uruguay (freephone)  : 000 40 190 522 
+   USA/Canada  : 1-973-947-7807 
+   USA/Canada  : 1-719-325-2702 
+   USA/Canada  : 1-866-755-6294 
+   USA/Canada  : 1-252-281-2997 
+   USA/Canada  : 1-678-823-6997 
+   USA/Canada  : 1-617-250-7994 
+   USA/Canada  : 1-682-730-8190 
+   USA/Canada  : 1-303-847-0349 
+   USA/Canada  : 1-336-790-8117 
+   USA/Canada  : 1-786-369-1649 
+   USA/Canada  : 1-402-875-6493 
+   USA/Canada  : 1-609-651-8415 
+   USA/Canada  : 1-858-999-3998 
+   USA/Canada  : 1-510-817-0994 
+   Venezuela (freephone)  : 0 800 102 9664 
+   Vietnam (freephone)  : 1800 9248 
+ 
+
+
+
+YOUR ACCOUNT INFORMATION 
+
+Meeting Room Number:                     *68790017*
+Moderator PIN:                                                     *2822* 
+
+
+Access Number:+65 6879 0017   
+ 
+      Australia   Australia Toll Free   1800 153 629   
+Australia   Sydney   +61 (0)2 8223 9486   
+Austria   Austria Toll Free   0800 297 537   
+Austria   Vienna   +43 (0)268 2205 6230   
+Belgium   Belgium Toll Free   080 011 083   
+Belgium   Brussels   +32 2290 1648   
+Brazil   Brazil Toll Free   0800 891 9898   
+Canada   Canada Toll Free   1800 403 5061   
+China   China Toll Free (Netcom)   108 008 520 975   
+China   China Toll Free (Telecom)   108 001 520 975   
+Czech Republic   Czech Rep Toll Free   800 143 098   
+Denmark   Copenhagen   +45 3271 4761   
+Denmark   Denmark Toll Free   80 888 054   
+Finland   Finland Toll Free   0800 914 661   
+France   France Toll Free   0800 910 489   
+France   Lyon   +33 (0)4 2684 0176   
+France   Marseille   +33 (0)4 8891 5289   
+France   Paris   +33 (0)1 7099 3461   
+Germany   Berlin   +49 (0)307 2616 7128   
+Germany   Dusseldorf   +49 (0)211 5407 3688   
+Germany   Frankfurt   +49 (0)695 8999 0733   
+Germany   Germany Toll Free   0800 182 5609   
+Germany   Hamburg   +49 (0)408 0902 0574   
+Germany   Munich   +49 (0)892 4443 2679   
+Germany   Stuttgart   +49 (0)7114 9081 3077   
+Greece   Greece Toll Free   008 008 5212 9943   
+Hong Kong   Hong Kong   +852 (0)3002 9780   
+Hong Kong   Hong Kong Toll Free   800 901 271   
+India   India Toll Free   000 800 100 6541   
+Indonesia   Indonesia Toll Free   001 803 016 0405   
+Ireland   Dublin   +353 1436 4258   
+Ireland   Ireland Toll Free   1800 882 022   
+Israel   Israel Toll Free   1809 245 990   
+Italy   Italy Toll Free   800 788 654   
+Italy   Milan   +39 023 0350 9194   
+Italy   Rome   +39 064 5210 8130   
+Italy   Turin   +39 011 2179 2082   
+Japan   Japan Toll Free   003 480 040 0529   
+Japan   Tokyo   +81 (0)3 3570 8589   
+Korea, Republic Of   Seoul   +82 (0)2 3483 1027   
+Korea, Republic Of   South Korea Toll Free   007 988 521 9134   
+Malaysia   Kuala Lumpur   +60 (0)3 7712 4418   
+Malaysia   Malaysia Toll Free   1800 806 087   
+Mexico   Mexico Toll Free   001 800 514 0405   
+Netherlands   Amsterdam   +31 (0)2 0796 5196   
+Netherlands   Netherlands Toll Free   0800 022 7208   
+New Zealand   Auckland   +64 9919 2008   
+New Zealand   New Zealand Toll Free   0800 880 215   
+Norway   Norway Toll Free   80 012 994   
+Philippines   Philippines Toll Free   180 014 410 161   
+Poland   Poland Toll Free   008 001 114 917   
+Portugal   Portugal Toll Free   800 819 607   
+Russia   Russia Toll Free   810 800 2649 1012   
+Saudi Arabia   Saudi Arabia Toll Free   8008 443 668   
+South Africa   South Africa Toll Free   0800 980 519   
+Spain   Barcelona   +34 (0)9 3492 3089   
+Spain   Madrid   +34 (0)9 1788 9632   
+Spain   Spain Toll Free   900 811 892   
+Sweden   Stockholm   +46 (0)8 5052 0264   
+Sweden   Sweden Toll Free   020 794 948   
+Switzerland   Geneva   +41 (0)2 2592 7133   
+Switzerland   Switzerland Toll Free   0800 561 905   
+Taiwan   Taipei   +886 (0)2 2162 6719   
+Taiwan   Taiwan Toll Free   0080 185 5835   
+Thailand   Thailand Toll Free   0018 0015 6203 0404   
+United Arab Emirates   United Arab Emirates Toll Free   8000 174 068   
+United Kingdom   Birmingham   +44 (0)12 1260 4563   
+United Kingdom   London   +44 (0)20 7154 2633   
+United Kingdom   Manchester   +44 (0)16 1250 0363   
+United Kingdom   UK Toll Free   0800 068 9501   
+United States   New York   +1 718 354 1208   
+United States   USA & Canada Toll Free   1866 284 3437   
